@@ -1,0 +1,11 @@
+/Users/aluno/Projects/projetoMatriz_comparaNumero/projetoMatriz_comparaNumero/bin/Debug/netcoreapp2.1/projetoMatriz_comparaNumero.deps.json
+/Users/aluno/Projects/projetoMatriz_comparaNumero/projetoMatriz_comparaNumero/bin/Debug/netcoreapp2.1/projetoMatriz_comparaNumero.runtimeconfig.json
+/Users/aluno/Projects/projetoMatriz_comparaNumero/projetoMatriz_comparaNumero/bin/Debug/netcoreapp2.1/projetoMatriz_comparaNumero.runtimeconfig.dev.json
+/Users/aluno/Projects/projetoMatriz_comparaNumero/projetoMatriz_comparaNumero/bin/Debug/netcoreapp2.1/projetoMatriz_comparaNumero.dll
+/Users/aluno/Projects/projetoMatriz_comparaNumero/projetoMatriz_comparaNumero/bin/Debug/netcoreapp2.1/projetoMatriz_comparaNumero.pdb
+/Users/aluno/Projects/projetoMatriz_comparaNumero/projetoMatriz_comparaNumero/obj/Debug/netcoreapp2.1/projetoMatriz_comparaNumero.csprojAssemblyReference.cache
+/Users/aluno/Projects/projetoMatriz_comparaNumero/projetoMatriz_comparaNumero/obj/Debug/netcoreapp2.1/projetoMatriz_comparaNumero.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/projetoMatriz_comparaNumero/projetoMatriz_comparaNumero/obj/Debug/netcoreapp2.1/projetoMatriz_comparaNumero.AssemblyInfoInputs.cache
+/Users/aluno/Projects/projetoMatriz_comparaNumero/projetoMatriz_comparaNumero/obj/Debug/netcoreapp2.1/projetoMatriz_comparaNumero.AssemblyInfo.cs
+/Users/aluno/Projects/projetoMatriz_comparaNumero/projetoMatriz_comparaNumero/obj/Debug/netcoreapp2.1/projetoMatriz_comparaNumero.dll
+/Users/aluno/Projects/projetoMatriz_comparaNumero/projetoMatriz_comparaNumero/obj/Debug/netcoreapp2.1/projetoMatriz_comparaNumero.pdb
